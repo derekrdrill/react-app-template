@@ -1,0 +1,38 @@
+body {
+    background-color: #11131A;
+    color: #526B80;
+    font-family: 'Roboto Slab', serif;
+}
+
+hr {
+    border-top: solid gainsboro 2px;
+}
+
+.btn-contact {
+    background-color: #E2AA3D;
+    border-radius: 10px;
+}
+
+.btn-contact:hover {
+    background-color: #F79303;
+    color: gainsboro;
+}
+
+.btn-nav-item {
+    color: #3048AC;
+}
+
+.btn-nav-item:hover {
+    color: gainsboro;
+}
+
+.nav-background {
+    background-color: #28262A;
+}
+
+.nav-top {
+    background-color: #006062; 
+}
+
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
